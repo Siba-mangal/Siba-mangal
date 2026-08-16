@@ -88,10 +88,29 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siba-mangal&theme=tokyonight" width="95%" alt="Profile details" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siba-mangal&theme=tokyonight" height="160" alt="Top languages by repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siba-mangal&theme=tokyonight" height="160" alt="Most commit language" />
+<table>
+<tr>
+<td align="center" colspan="2">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siba-mangal&theme=tokyonight" width="100%" alt="Profile overview" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siba-mangal&theme=tokyonight" width="100%" alt="Languages by repo" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siba-mangal&theme=tokyonight" width="100%" alt="Most used languages" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siba-mangal&theme=tokyonight" width="100%" alt="Stats" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siba-mangal&theme=tokyonight&utcOffset=5.5" width="100%" alt="Commit time of day" />
+</td>
+</tr>
+</table>
 
 <img src="https://streak-stats.demolab.com/?user=Siba-mangal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
@@ -99,11 +118,11 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🌐 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siba-mangal&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution graph" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution graph" />
 
 </div>
 
