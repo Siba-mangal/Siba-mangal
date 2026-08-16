@@ -88,8 +88,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siba-mangal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siba-mangal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siba-mangal&theme=tokyonight" width="95%" alt="Profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siba-mangal&theme=tokyonight" height="160" alt="Top languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siba-mangal&theme=tokyonight" height="160" alt="Most commit language" />
 
 <img src="https://streak-stats.demolab.com/?user=Siba-mangal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
@@ -101,7 +103,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Siba-mangal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Siba-mangal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=-C,-B" alt="Trophies" />
 
 </div>
 
