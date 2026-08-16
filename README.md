@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20there,%20I'm%20Gaurav%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Frontend%20•%20E-commerce%20Builder&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20there,%20I'm%20Siba%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20•%20Java%20•%20Microservices%20•%20Distributed%20Systems&descSize=16&descAlignY=58" width="100%"/>
 
 <a href="https://github.com/Siba-mangal">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Walmart+Global+Tech;React+%7C+JavaScript+%7C+Frontend+Specialist;Building+E-commerce+Brands+on+the+side;Always+shipping+something+new+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineer+Specialist+%40+GE+Healthcare;Java+%7C+Spring+Boot+%7C+Microservices;Cloud-Native+%7C+AWS+%7C+Kubernetes+%7C+CI%2FCD;Building+scalable+distributed+systems+🚀" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,12 +12,13 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 Software Engineer at **Walmart Global Tech** — International Pricing team
-- 🏢 Previously Frontend Engineer at **KreditBee** (React, fintech)
-- 🎓 B.Tech in Electronics & Telecommunication — **IIIT Bhubaneswar**
-- 🛍️ Founder of e-commerce clothing brands & a custom web design service
-- 🌱 Currently exploring: system design, performance optimization & full-stack development
-- 📫 Reach me: **your-email@example.com**
+- 💼 **Software Engineer Specialist @ GE Healthcare**, Bengaluru — since Sep 2023
+- ⚙️ 3 years of experience building **scalable microservices, RESTful APIs & distributed systems** with Java, Spring Boot & Hibernate
+- ☁️ Hands-on with **cloud-native development** on AWS & Azure — Docker, Kubernetes, Jenkins CI/CD
+- 🔐 Focused on **application security (OWASP)**, performance tuning & legacy modernization (led Java 8 → 17 migration)
+- 🏆 Awarded **Best Employee** at GE Healthcare for high-quality deliverables & proactively solving critical production issues
+- 🎓 B.Tech in Electronics & Telecommunication — **IIIT Bhubaneswar** (2019–2023)
+- 📫 Reach me: **siba.mangal25@gmail.com**
 
 ---
 
@@ -25,29 +26,61 @@
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate_(JPA)-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
 
-**Tools & Platforms**
+**Cloud & DevOps**
 
+![AWS](https://img.shields.io/badge/AWS_(EC2%2C_S3%2C_RDS)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vsc&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Core Concepts**
+
+`Data Structures & Algorithms` • `OOP & Design Patterns` • `Microservices` • `RESTful APIs` • `Distributed Systems` • `Multithreading & Concurrency` • `System Design` • `WebSockets` • `Agile/Scrum`
+
+---
+
+## 💼 Experience Highlights
+
+**🏥 GE Healthcare — Software Engineer Specialist** *(Sep 2023 – Present)*
+- Engineered CI/CD pipelines with Jenkins, Docker & Blue/Green deployments — **reduced production downtime by 40%**
+- Refactored transaction engine with Java Concurrency APIs (Executors, CompletableFuture) — **boosted throughput 40%** under peak load
+- Led **Java 8 → 17 migration** of three core backend modules, tuning JVM GC to cut REST API latency by 15%
+- Hardened security: STIG controls, TLS 1.2+, FIPS-mode fixes, Burp Suite pen testing & OWASP-compliant remediation
+- Containerized Spring Boot services on Kubernetes for rapid horizontal scaling
+
+**💬 Desi QnA — Software Engineer Intern** *(Nov 2022 – Jan 2023)*
+- Built a responsive Q&A platform (PHP, MySQL) and optimized SQL queries/indexing — **30% faster page loads**
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 💬 **Real-Time Chat Application** | Scalable multi-user chat with real-time sync, Redis Pub/Sub message broadcasting across distributed instances, secure REST APIs for auth & chat history | Python, FastAPI, WebSockets, Redis, PostgreSQL |
+| 🏥 **Smart Health Monitoring System (SHMS)** | Real-time hospital vitals monitoring (HR, BP, NIBP, SPO2) with automated alerts; microservices split data ingestion from alert processing for high availability | Java, JDBC, MySQL, Microservices |
 
 ---
 
@@ -74,17 +107,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-<!-- Replace these with your actual pinned repos -->
-| Project | Description | Tech |
-|---|---|---|
-| 🛍️ **E-commerce Store** | Full clothing brand storefront with product catalog & checkout | React, Node.js |
-| 🎨 **Web Design Portfolio** | Custom coded websites for founders & small businesses | HTML, CSS, JS |
-| ⚛️ **React Projects** | Collection of frontend apps & UI experiments | React, Tailwind |
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -99,9 +121,9 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/siba-mangal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:siba.mangal25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Siba-mangal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
