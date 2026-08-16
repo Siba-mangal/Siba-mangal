@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20there,%20I'm%20Siba%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20•%20Java%20•%20Microservices%20•%20Distributed%20Systems&descSize=16&descAlignY=58" width="100%"/>
 
 <a href="https://github.com/Siba-mangal">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineer+Specialist+%40+GE+Healthcare;Java+%7C+Spring+Boot+%7C+Microservices;Cloud-Native+%7C+AWS+%7C+Kubernetes+%7C+CI%2FCD;Building+scalable+distributed+systems+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineer+Specialist+%40+GE+Healthcare;Java+%7C+Spring+Boot+%7C+Microservices;Cloud-Native+%7C+AWS+%7C+Kubernetes+%7C+CI%2FCD;Building+scalable+distributed+systems" alt="Typing SVG" />
 </a>
 
 </div>
@@ -88,10 +88,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siba-mangal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siba-mangal&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Siba-mangal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siba-mangal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siba-mangal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=Siba-mangal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Siba-mangal&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Siba-mangal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
 
 </div>
 
